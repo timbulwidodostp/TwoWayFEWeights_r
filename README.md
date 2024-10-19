@@ -3,6 +3,8 @@ Estimation of the weights attached to the two-way fixed effects regressions Use 
 
 Estimates the weights attached to the two-way fixed effects regressions studied in de Chaisemartin & D'Haultfoeuille (2020a), as well as summary measures of these regressions' robustness to heterogeneous treatment effects Use twowayfeweights With (In) R Software
 
+https://www.youtube.com/watch?v=j5hFiLq5NYA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
